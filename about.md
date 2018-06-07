@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I work in the semiconductor industry, in software and digital design.  The
-purpose of this site is to explain and keep record of the things that I've
-learned.
+This blog is a place where I write about things that interest me, particularly
+any original thoughts or perspectives that I have.
 
-Lately, my interests have been in functional programming and modern C++.  I have
-been an avid user of Vim since 2012.
+I am a software engineer and avid Vim user.  I am passionate about tools and
+productivity.  To me, productivity is reducing the amount of effort to the
+essential components and productivity tools compute the things that can be
+computed so that people don't have to.
