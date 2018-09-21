@@ -35,8 +35,8 @@ disturbances to daily routines.  Earth signs are more predisposed to attaching
 sentimental meaning to physical objects.
 
 Air signs are very intellectual.  To air signs, ideas are things in and of
-themselves.  There is a high appreciaton for aesthetic and beauty, for elegance.
-Air signs can at times feel that the physical and social world are
+themselves.  There is a high appreciation for aesthetic and beauty, for
+elegance.  Air signs can at times feel that the physical and social world are
 inconveniences that limit the potential for beauty to be realized.
 
 Water signs are said to be emotional, but I believe intuitive is a better word.
@@ -47,7 +47,7 @@ heavily in great social leaders.
 
 The identity of the elements  are embedded even in our
 language; we speak of the "fire that drives us", being "down to earth", having
-our "head in the clouds".  Although astrology is not as prevelant today, the
+our "head in the clouds".  Although astrology is not as prevalent today, the
 meaning of the elements is preserved and these are very ancient ideas.
 
 
