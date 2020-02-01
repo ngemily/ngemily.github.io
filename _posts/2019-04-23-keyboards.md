@@ -135,3 +135,11 @@ It is worth considering situations may require the use of a standard keyboard
 re-mapping support, but are physically different from your everyday keyboard.
 If switching keyboards will be required regularly, the mental effort may
 outweigh the benefits of having a significantly different keyboard.
+
+## Key remapping software
+
+Mac OSX: Karabiner Elements https://pqrs.org/osx/karabiner/
+
+Windows: Auto Hotkey https://www.autohotkey.com
+
+My Auto Hotkey script: https://github.com/ngemily/cadet
