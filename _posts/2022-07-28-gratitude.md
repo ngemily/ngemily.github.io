@@ -29,7 +29,7 @@ to the giver.  But by no means is that gratitude mandatory.
 Sometimes, we fail to see the gifts that surround us as gifts.  That is the
 point of a gratitude practice; to shift our perspective to see the things that
 we may take for granted; to give ourselves the chance to notice all the things
-around us that are freely given.  Lift itself is a gift.  The life supporting
+around us that are freely given.  Life itself is a gift.  The life supporting
 rays of the sun, the life giving air and water, and the life supporting Earth.
 The warm energy of friends, and family, and strangers.  Gratitude is a powerful
 antidote to today's pervasive self-starting, self-sufficient views that induce
