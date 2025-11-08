@@ -1,0 +1,13 @@
+.post-index-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: $spacing-unit - 25px;
+  }
+}
+
+.date {
+  display: inline-block;
+  min-width: 90px;
+}
