@@ -28,6 +28,7 @@ plugins:
   - jekyll-remote-theme
 remote_theme: "jekyll/minima@bf9ef98"
 minima:
+  show_excerpts: true
   skin: auto
   social_links:
     - title: GitHub
