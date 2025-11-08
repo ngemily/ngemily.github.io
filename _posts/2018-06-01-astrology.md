@@ -5,8 +5,6 @@ date:   Aug 25, 2018, 8:58 PM
 categories: astrology
 ---
 
-# Why astrology?
-
 My initial interest in astrology stems partly from curiosity of what it is, and
 partly because it has such a great historical and cultural impact.  What I found
 was that it has much more expressivity than only the 12 signs, which is all I

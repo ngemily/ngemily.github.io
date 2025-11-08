@@ -4,8 +4,6 @@ title:  "Weapons in Literature: Symbols of the Hero's Journey"
 date:   Jan 18, 2023
 ---
 
-## Preface
-
 I've always loved fantasy stories.  Magic, forests, mountains.  Symbols,
 talismans, including special weapons.  My favourite part was always when the
 hero, lifted out of his ordinary world and into the magical, is training up and

@@ -5,8 +5,6 @@ date:   2017-06-13 20:02 -0400
 categories: cpp ptree partial closure
 ---
 
-# Problem Statement
-
 The goal of code shown in the post in to read data from a json file, of the
 following format:
 
@@ -44,9 +42,7 @@ and produce this output:
 using C++.  The capital "INPUTS" and "OUTPUTS" are a fixed part of the schema
 and everything else is variable.
 
-# Attempts
-
-## A procedural approach
+## 1 | A procedural approach
 
 This is one way I might do this procedurally, using boost property tree.
 
@@ -149,7 +145,7 @@ but this doesn't look significantly more readable.
 > ```
 > Note that `(auto x)` is C++14.
 
-## Partial application
+## 2 | Partial application
 
 One reason that last solution look ugly is because we need a lambda, instead of
 just passing a named function like this:
@@ -230,7 +226,7 @@ way where the computation itself is defined separately.
 There's one less level of nesting, but there's still a lot of duplication going
 on.
 
-## More partials
+## 3 | More partials
 
 What we're left with is similar to the code we started with, but with one level
 less of nesting.  Let's try writing another lambda for the currently innermost
@@ -270,7 +266,7 @@ calls.  This is **not** a good way to use `for_each`.
 Let's refine our attempt to use more partials to modularize our inner loop
 code.
 
-## Closure
+## 4 | Closure
 
 The lambdas passed to `for_each` in the last example are basically the same,
 except for the arguments `"IN_"` and `"OUT_"`.  We can extract that lambda into
@@ -379,7 +375,7 @@ is inconsistent across runs.
 
 (Without `-O3`, procedural code is the fastest, by far.)
 
-# Conclusion
+## Conclusion
 
 Arguably, the procedural code was fine, and none of the fancy C++ footwork is
 significantly more readable.  But what if the loop body was longer?  What if
