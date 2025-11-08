@@ -4,8 +4,6 @@ title:  "Feelings and Emotions"
 date:   Oct 27, 2022
 ---
 
-# Feelings and Emotions
-
 Feelings are signals.  Emotions are energy evoked by internal or external
 triggers, and the act of emoting is how we move that energy (or not) through our
 bodies.  For example, sadness is a feeling.  It signifies a loss.  The tightness

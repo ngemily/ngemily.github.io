@@ -5,8 +5,6 @@ date:   2021-09-19
 categories: tai-chi
 ---
 
-# Duality and non-Duality
-
 Non-Duality challenges us to consider the perspective that all things come in fact from an undifferentiated single entity.
 
 Before considering non-Duality further, let us first discuss Duality.  Duality posits that there is a divide between is and is not, light and dark, high and low, male and female.  There is a succinct poem that comes from Tai-Chi traditions:

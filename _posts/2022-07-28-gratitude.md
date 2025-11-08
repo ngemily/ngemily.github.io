@@ -4,8 +4,6 @@ title:  "Gratitude is Optional"
 date:   Jul 28, 2022
 ---
 
-# Gratitude is Optional
-
 Gratitude is a big word these days, with gratitude journals, and gratitude
 practices.  It strikes me hearing the phrase "Of course I'm grateful,"
 especially once someone else has expressed their gratitude.  It becomes

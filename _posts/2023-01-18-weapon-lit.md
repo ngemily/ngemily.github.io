@@ -4,8 +4,6 @@ title:  "Weapons in Literature: Symbols of the Hero's Journey"
 date:   Jan 18, 2023
 ---
 
-# Weapons in Literature: Symbols of the Hero's Journey
-
 ## Preface
 
 I've always loved fantasy stories.  Magic, forests, mountains.  Symbols,
